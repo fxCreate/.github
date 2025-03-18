@@ -32,13 +32,7 @@ npm install
 
 ## Code Contributions
 
-### 1. Create a Branch
-Before making changes, create a new branch:
-```sh
-git checkout -b feature/your-feature-name
-```
-
-### 2. Follow Coding Standards
+### 1. Follow Coding Standards
 - **Use Prettier** for formatting (if applicable):
   ```sh
   npm run format
@@ -52,16 +46,16 @@ git checkout -b feature/your-feature-name
   git commit -m "feat: add new CLI command for resource creation"
   ```
 
-### 3. Testing
+### 2. Testing
 Run tests before submitting your PR:
 ```sh
 npm test
 ```
 
-### 4. Push and Create a Pull Request
-1. Push your branch:
+### 3. Push and Create a Pull Request
+1. Push your changes:
    ```sh
-   git push origin feature/your-feature-name
+   git push origin main
    ```
 2. Open a pull request on GitHub with a detailed description.
 3. Ensure all checks pass and be open to feedback from maintainers.
