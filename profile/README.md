@@ -29,7 +29,7 @@
 We welcome contributions! Please check out our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU License](LICENSE).
 
 ---
 _Made with ❤️ by the fxCreate team._
