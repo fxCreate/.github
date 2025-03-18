@@ -1,13 +1,10 @@
-![fxCreate Banner](https://via.placeholder.com/1000x250?text=fxCreate+CLI+Tools)
-
 # fxCreate
 
 🚀 **The ultimate CLI toolkit for developing resources and utilities for the CFX project.**
 
-[![GitHub Organization](https://img.shields.io/badge/org-fxCreate-blue?style=flat-square)](https://github.com/fxCreate)
-[![License](https://img.shields.io/github/license/fxCreate/.github?style=flat-square)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-[![Discord](https://img.shields.io/discord/933364345714675774?color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.gg/yourserver)
+[![GitHub Organization](https://img.shields.io/badge/org-fxCreate-blue?style=for-the-badge)](https://github.com/fxCreate)
+[![License](https://img.shields.io/github/license/fxCreate/.github?style=for-the-badge)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 ## 🎯 About
 
@@ -29,7 +26,7 @@
 We welcome contributions! Please check out our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 📜 License
-This project is licensed under the [GNU License](LICENSE).
+This project is licensed under the [GNU GPLv3 License](LICENSE).
 
 ---
 _Made with ❤️ by the fxCreate team._
